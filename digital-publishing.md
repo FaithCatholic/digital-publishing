@@ -1,6 +1,6 @@
 # FAITH Catholic guide to content components
 Component|Summary|Print|Web|Social
--|-|:-:|:-:|:-:       
+---|---|:---:|:---:|:---:       
 Headline|The main title of the article|X||
 Subhead|Line of text after the headline that gives more information about the article|X|X|
 Byline|Author name|X|X|X
