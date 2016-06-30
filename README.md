@@ -16,6 +16,7 @@ Photo Credit|Photo source and/or Photographer info|X|X|X
 Question|When article contains a question it goes here|X|X|X
 Answer|The answer to the question goes here|X|X|X
 Ministry Focus|Similar to Sidebar, text referring to a particular ministry|X|X|
+Endnote|Used for disclaimer, footnotes, or columnist info|X|X|
 Web Head|Variation of headline written for web||X|
 Deck|One sentence summary of entire article||X|X
 Digital Body|Longer version of body for web||X|
@@ -54,6 +55,7 @@ Sidebar|Content to appear alongside body|X|X|
 Pull Quote|Selected quote from an article highlighted next to the main text|X|X|
 Kicker|Section Heading|X|X|
 Call to Action|Similar to Sidebar, text specifically instructing the reader to complete a task|X|X|
+Endnote|Used for disclaimer, footnotes, or columnist info|X|X|
 Photo Caption|Short description of photo|X|X|X
 Photo Credit|Photo source and/or Photographer info|X|X|X
 Web Head|Variation of headline written for web||X|
