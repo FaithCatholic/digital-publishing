@@ -33,6 +33,7 @@ Subhead|Line of text after the headline that gives more information about the ar
 Byline|Author name|X|X|X
 Body|Main text of the article|X|X|
 Sidebar|Content to appear alongside body|X|X|
+Kicker|Section Heading|X|X|
 Pull Quote|Selected quote from an article highlighted next to the main text|X|X|
 Photo Caption|Short description of photo|X|X|X
 Photo Credit|Photo source and/or Photographer info|X|X|X
