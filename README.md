@@ -64,3 +64,10 @@ Web Head|Variation of headline written for web||X|
 Deck|One sentence summary of entire article||X|X
 Digital Body|Longer version of body for web||X|
 Social Head|Variation of headline written for social media posts|||X
+
+##Image Sizes
+Image Type|Ratio|Minimum Width
+:---|:---:|:---
+Square Image|1:1|696px
+Featured Image|4:3|696px
+Hero Image|16:9|1920px
