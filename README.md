@@ -5,8 +5,7 @@ Component|Summary|Print|Web|Social|AMP|FB Instant
 ---|---|:---:|:---:|:---:|:---:|:---:|    
 Headline|The main title of the article|X||||
 Subhead|Line of text after the headline that gives more information about the article|X|X||X|X
-Web Head|Variation of headline written for web||X||X|
-Social Head|Variation of headline written for social media posts|||X||X
+Web Head|Variation of headline written for web||X||X|X
 Deck|One sentence summary of entire article||X|X|X|X
 Shareline|Social media post text|||X|||
 Digital Body|Longer version of body for web||X||X|X
