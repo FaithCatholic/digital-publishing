@@ -38,6 +38,6 @@ Square Image\*|Ratio 1:1 Min Width 696px||X|||||
 Photo Caption\*|Short description of each photo||X|||
 Photo Credit\*|Photo source and/or Photographer info||X|||
 ||||||
-Gallery Image\*|Ratio 4:3 or 3:4 Min Width 696px||X||X|X
-Photo Caption\*|Short description of each photo||X||X|X
-Photo Credit\*|Photo source and/or Photographer info||X||X|X
+Gallery Image|Ratio 4:3 or 3:4 Min Width 696px||X||X|X
+Photo Caption|Short description of each photo||X||X|X
+Photo Credit|Photo source and/or Photographer info||X||X|X
