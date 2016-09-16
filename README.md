@@ -18,7 +18,7 @@ Pull Quote|Selected quote from an article highlighted next to the main text|X|X|
 Block Quote|Selected quote from article featured within the main body text |X|X||X|X||
 Call to Action|Similar to Sidebar, text specifically instructing the reader to complete a task|X|X|||||
 Ministry Focus|Similar to Sidebar, text referring to a particular ministry|X|X|||||
-Endnote|Used for disclaimer, footnotes, or columnist info|X|X|||||
+Endnote|Used for disclaimer, footnotes, or columnist info|X|X||X|X||
 Topic Tags|Catholic topics referenced in the article||X|||||
 Ministry Tags|Diocesan ministries referenced in the article||X|||||
 Parish Tags|Parishes related to the article||X|||||
