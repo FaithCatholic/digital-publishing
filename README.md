@@ -34,7 +34,7 @@ Hero Image|Ratio 16:9 Min Width 1920px||X|||||
 Photo Caption|Short description of each photo||X|||||
 Photo Credit|Photo source and/or Photographer info||X|||||
 ||||||||
-Square Image\*|Ratio 1:1 Min Width 696px||X|||||||
+Square Image\*|Ratio 1:1 Min Width 696px||X|||||
 Photo Caption\*|Short description of each photo||X|||||
 Photo Credit\*|Photo source and/or Photographer info||X|||||
 ||||||||
