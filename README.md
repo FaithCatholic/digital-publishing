@@ -11,6 +11,7 @@ Deck\*|One sentence summary of entire article||X||X|X||
 Shareline\*|Social media post text|||X||||
 Kicker\*|Section Heading|X|X||X|X||
 Byline\*|Author name|X|X||X|X||
+Intro|Text before the body in print|X||||||
 Body\*|Main text of the article|X||||||
 Digital Body\*|Longer version of body for web||X||X|X||
 Sidebar|Content to appear alongside body|X|X|||||
