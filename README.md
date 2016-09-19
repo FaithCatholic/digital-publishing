@@ -19,6 +19,9 @@ Block Quote|Selected quote from article featured within the main body text |X|X|
 Call to Action|Similar to Sidebar, text specifically instructing the reader to complete a task|X|X|||||
 Ministry Focus|Similar to Sidebar, text referring to a particular ministry|X|X|||||
 Endnote|Used for disclaimer, footnotes, or columnist info|X|X||X|X||
+Crosshead|Heading within body text|X||||||
+Highlight|Highlighted text on page|X||||||
+Cover Teaser|Text for cover promo|X||||||
 Topic Tags|Catholic topics referenced in the article||X|||||
 Ministry Tags|Diocesan ministries referenced in the article||X|||||
 Parish Tags|Parishes related to the article||X|||||
