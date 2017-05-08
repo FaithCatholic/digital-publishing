@@ -1,7 +1,7 @@
 # FAITH Catholic guide to content components
 \* Required component
 
-##Text
+## Text
 Component|Summary|Print|Web|Social|AMP|FB Instant|Apple News|My Parish
 ---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Headline\*|The main title of the article|X||||||
@@ -27,7 +27,7 @@ Topic Tags|Catholic topics referenced in the article||X|||||
 Ministry Tags|Diocesan ministries referenced in the article||X|||||
 Parish Tags|Parishes related to the article||X|||||
 
-##Photos
+## Photos
 Component|Summary|Print|Web|Social|AMP|FB Instant|Apple News|My Parish
 ---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 Featured Image\*|Ratio 4:3 Min Width 696px||X|X|X|X||
